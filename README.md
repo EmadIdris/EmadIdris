@@ -18,4 +18,6 @@
   
  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=EmadIdris&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="EmadIdris" /></p>
 
+<br/>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=EmadIdris&show_icons=true&theme=tokyonight&locale=en" alt="EmadIdris" /></p>
