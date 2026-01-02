@@ -1,23 +1,83 @@
-<h1 align="center">Hi 👋, I'm Emad Idris</h1>
-<h3 align="center">A passionate Full Stack developer </h3>
+# 👋 Hi, I'm Emad Al-Buhaisi
 
+**Senior Software Engineer | Cloud & AI Automation Specialist**
 
-- 🌱 I Want to learn **Vue.js, Next.js, Graph QL , JAVA **
+📍 Amman, Jordan  
+📧 emad_albuhaisi@outlook.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/emad-al-buhaisi-484019141/)  
 
-- 📫 How to reach me **emadidris@outlook.com**
+---
 
-- 📄 Know about my experiences [My CV](https://drive.google.com/file/d/10pLxG6fBj2U6EuluZFUODyt4Mu3n5plg/view?usp=sharing)
+## 🚀 About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="center">
-<a href="https://www.linkedin.com/in/emad-idris-484019141/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emadidris" height="30" width="40" /></a>
-</p>
+I am a **Senior Software Engineer** with **4+ years of experience** building **enterprise-grade, scalable web applications**.  
+My expertise spans **backend development, frontend engineering, cloud platforms, DevOps**, and **AI-driven automation**.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/>  <a href="https://jestjs.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
-  
- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=EmadIdris&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="EmadIdris" /></p>
+I specialize in:
+- Designing **cloud-native systems** on Microsoft Azure
+- Building **secure, high-performance APIs and microservices**
+- Modernizing legacy systems using **Docker & CI/CD**
+- Delivering **intelligent automation** using **Azure OpenAI, Microsoft Copilot, N8N, and Power Platform**
 
-<br/>
+I enjoy solving complex engineering problems, improving system reliability, and delivering measurable business impact.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=EmadIdris&show_icons=true&theme=tokyonight&locale=en" alt="EmadIdris" /></p>
+---
+
+## 🧠 Technical Skills
+
+### Languages & Core
+- C#
+- JavaScript
+- TypeScript
+- SQL
+
+### Backend & APIs
+- .NET Core
+- ASP.NET MVC
+- ASP.NET Web Forms
+- RESTful APIs
+- Microservices Architecture
+- Node.js
+
+### Frontend
+- React
+- Angular
+- Next.js
+- HTML5
+- CSS3
+- Responsive & Accessible Design
+
+### Databases
+- Microsoft SQL Server
+- Oracle SQL
+- PostgreSQL
+- MongoDB
+
+### Cloud & DevOps
+- Microsoft Azure
+- Azure DevOps
+- Docker
+- CI/CD Pipelines
+- Git
+- Agile / Scrum
+
+### AI & Automation
+- Azure OpenAI
+- Microsoft Copilot
+- N8N
+- Conversational AI
+- Power Automate (RPA)
+
+### Enterprise Platforms
+- Microsoft Power Apps
+- Power Automate
+- SharePoint
+- Power Platform Solution Architecture
+
+---
+
+## 💼 Professional Experience
+
+### **Senior Software Engineer**
+**Specialized Technical Services (STS) – ZainTech Company**  
+📅 Jun 2022 – Present | 📍 Amm
